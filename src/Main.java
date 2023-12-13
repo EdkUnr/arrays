@@ -59,3 +59,4 @@ public class Main {
         System.out.println();
     }
 }
+// Каждый раз борьба с загрузкой в Git.
